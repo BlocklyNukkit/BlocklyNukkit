@@ -53,12 +53,14 @@ BlocklyNukkit最大的特点之一就是为没有任何编程经验或者基础�
 
 要使用BlocklyNukkit图形化编辑器，只需在浏览器打开[https://tools.blocklynukkit.com](https://tools.blocklynukkit.com)   
 
-对于法语用户，请打开[https://tools.blocklynukkit.com?language=french](https://tools.blocklynukkit.com?language=french)
-请注意，法语翻译由用户自行贡献，非开发团队维护。如果您也希望贡献自己语言的翻译，请参考[翻译贡献教程](https://wiki.blocklynukkit.info/%E5%BC%80%E5%8F%91wiki/%E6%95%99%E7%A8%8B%E7%BC%96%E5%86%99%E4%B8%8E%E7%BF%BB%E8%AF%91/)  
+Pour les utilisateurs français，utiliser celui-ci[https://tools.blocklynukkit.com?language=french](https://tools.blocklynukkit.com?language=french)
+avis，la langue française a été traduite par la communauté。
+如果您也希望贡献自己语言的翻译，请参考[翻译贡献教程](https://wiki.blocklynukkit.info/%E5%BC%80%E5%8F%91wiki/%E6%95%99%E7%A8%8B%E7%BC%96%E5%86%99%E4%B8%8E%E7%BF%BB%E8%AF%91/)  
 
+please wait, English translation is coming soon.
 对于英语用户，开发团队正在竭力进行英文翻译，请您耐心等待，我们将在7月10日左右添加英文翻译
 
-您可以到BN教程库[http://www.blocklynukkit.info](http://www.blocklynukkit.info)学习如何使用
+您可以到[BN教程库](http://wiki.blocklynukkit.info)学习如何使用
 或者到我们的qq群953752196中学习如何使用
 也可以通过discord链接[https://discord.gg/94YWU9X](https://discord.gg/94YWU9X)加入我们的服务器来沟通、学习
 bn图形化编辑器展示：
