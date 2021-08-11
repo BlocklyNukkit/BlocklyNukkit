@@ -57,7 +57,7 @@ Pour les utilisateurs français，utiliser celui-ci[https://tools.blocklynukkit.
 avis，la langue française a été traduite par la communauté。
 如果您也希望贡献自己语言的翻译，请参考[翻译贡献教程](https://wiki.blocklynukkit.info/%E5%BC%80%E5%8F%91wiki/%E6%95%99%E7%A8%8B%E7%BC%96%E5%86%99%E4%B8%8E%E7%BF%BB%E8%AF%91/)  
 
-please wait, English translation is coming soon.
+please wait, English translation is coming soon.  
 对于英语用户，开发团队正在竭力进行英文翻译，请您耐心等待，我们将在7月10日左右添加英文翻译
 
 您可以到[BN教程库](http://wiki.blocklynukkit.info)学习如何使用
