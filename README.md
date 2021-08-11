@@ -53,7 +53,7 @@ BlocklyNukkit最大的特点之一就是为没有任何编程经验或者基础�
 
 要使用BlocklyNukkit图形化编辑器，只需在浏览器打开[https://tools.blocklynukkit.com](https://tools.blocklynukkit.com)   
 
-Pour les utilisateurs français，utiliser celui-ci[https://tools.blocklynukkit.com?language=french](https://tools.blocklynukkit.com?language=french)
+Pour les utilisateurs français，utiliser celui-ci[Éditeur graphique BlocklyNukkit](https://tools.blocklynukkit.com?language=french)
 avis，la langue française a été traduite par la communauté。
 如果您也希望贡献自己语言的翻译，请参考[翻译贡献教程](https://wiki.blocklynukkit.info/%E5%BC%80%E5%8F%91wiki/%E6%95%99%E7%A8%8B%E7%BC%96%E5%86%99%E4%B8%8E%E7%BF%BB%E8%AF%91/)  
 
